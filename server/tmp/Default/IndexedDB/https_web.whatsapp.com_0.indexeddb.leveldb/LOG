@@ -1,0 +1,22 @@
+2023/05/31-12:10:32.603 1584 Creating DB D:\Users\GUBBA SAI NITHIN\Documents\Internships\Assignments\Stockx app\server\tmp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/05/31-12:10:32.646 1584 Reusing MANIFEST D:\Users\GUBBA SAI NITHIN\Documents\Internships\Assignments\Stockx app\server\tmp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/31-12:10:32.816 3d10 Level-0 table #5: started
+2023/05/31-12:10:32.839 3d10 Level-0 table #5: 7376 bytes OK
+2023/05/31-12:10:32.861 3d10 Delete type=0 #3
+2023/05/31-12:10:32.862 3d10 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/31-12:10:34.102 1584 Level-0 table #7: started
+2023/05/31-12:10:34.124 1584 Level-0 table #7: 18380 bytes OK
+2023/05/31-12:10:34.163 1584 Delete type=0 #4
+2023/05/31-12:10:34.165 1584 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/31-12:10:53.524 1584 Level-0 table #9: started
+2023/05/31-12:10:53.583 1584 Level-0 table #9: 1204162 bytes OK
+2023/05/31-12:10:53.606 1584 Delete type=0 #6
+2023/05/31-12:10:53.609 1584 Compacting 1@0 + 1@1 files
+2023/05/31-12:10:53.667 1584 Generated table #10@0: 26288 keys, 885511 bytes
+2023/05/31-12:10:53.667 1584 Compacted 1@0 + 1@1 files => 885511 bytes
+2023/05/31-12:10:53.689 1584 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/31-12:10:55.270 1584 Level-0 table #12: started
+2023/05/31-12:10:55.325 1584 Level-0 table #12: 1130251 bytes OK
+2023/05/31-12:10:55.347 1584 Delete type=2 #7
+2023/05/31-12:10:55.347 1584 Delete type=0 #8
+2023/05/31-12:10:55.347 1584 Delete type=2 #9
